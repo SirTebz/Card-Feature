@@ -1,4 +1,4 @@
-# Product preview card component
+# Four-Card Feature preview component
 
 ![Design preview for the Four card feature coding challenge](./design/desktop-preview.jpg)
 

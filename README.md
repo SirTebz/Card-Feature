@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-This is a solution to the [Four card feature challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+This is a solution to the [Four card feature challenge on Frontend Mentor](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/66afb836e2150da4c47654d3/challenge/start).
 
 ### Links
 

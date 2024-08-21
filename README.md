@@ -9,7 +9,7 @@ This is a solution to the [Four card feature challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution](https://github.com/SirTebz/Card-Feature)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://sirtebz.github.io/Card-Feature/)
 
 ## Process
 
